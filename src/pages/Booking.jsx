@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
-import { Calendar, Clock, User, Phone, Check, MapPin } from 'lucide-react';
+import { Calendar, Clock, User, Phone, Check, MapPin, Scissors } from 'lucide-react';
 import PageTransition from '../components/PageTransition';
 
 const servicesList = [
